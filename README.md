@@ -2,15 +2,19 @@
 
 This is a solution to the [QR Code Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-### Screenshot
+### Issues
+
+The largest display I have is 1920x1080 so I was unable to test for larger resolutions. As such, things are at my best approximation for where they should be.
+
+### Screenshots
 
 ![Desktop view](./images/Screenshot%20(903).png)
 ![Mobile view](./images/Screenshot%20(904).png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/wtdunlap/QR-code-component)
+- Live Site URL: [GitHub Pages](https://wtdunlap.github.io/QR-code-component/)
 
 ## Author
 
