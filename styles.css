@@ -1,0 +1,54 @@
+:root {
+    --white: hsl(0, 0%, 100%);
+    --slate-300: hsl(212, 45%, 89%);
+    --slate-500: hsl(216, 15%, 48%);
+    --slate-900: hsl(218, 44%, 22%);
+}
+
+body {
+    background-color: var(--slate-300);
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.qrCard {
+    font-size: 15px;
+    font-family: "Outfit";
+    border-radius: 5%;
+    padding: 15px;
+    margin-top:75px;
+    width: 32%;
+    background-color: var(--white);
+    text-align: center;
+    
+    font-family: "Outfit", sans-serif;
+    
+
+}
+
+.qrCode {
+    border-radius: 5%;
+    width: 100%;
+}
+
+.qrHeader {
+    font-weight: 700;
+    color: var(--slate-500);
+}
+
+.qrBody {
+    color: var(--slate-300);
+    font-weight: 400;
+}
+
+/* mobile */
+
+@media screen and (max-width: 600px) {
+    .qrCard {
+        width: 85%;
+    }
+}
