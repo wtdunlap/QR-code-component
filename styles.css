@@ -7,7 +7,7 @@
 
 body {
     background-color: var(--slate-300);
-    
+    font-size: 15px;    
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -16,18 +16,13 @@ body {
 }
 
 .qrCard {
-    font-size: 15px;
-    font-family: "Outfit";
     border-radius: 5%;
-    padding: 15px;
-    margin-top:75px;
-    width: 32%;
+    padding: 1rem;
+    margin-top: 15.5%;
+    width: 20.25%;
     background-color: var(--white);
     text-align: center;
-    
     font-family: "Outfit", sans-serif;
-    
-
 }
 
 .qrCode {
@@ -37,18 +32,25 @@ body {
 
 .qrHeader {
     font-weight: 700;
-    color: var(--slate-500);
 }
 
 .qrBody {
-    color: var(--slate-300);
+    color: var(--slate-500);
     font-weight: 400;
+    padding: 1rem;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 1.5;
 }
 
 /* mobile */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 375px) {
     .qrCard {
-        width: 85%;
+        width: 66%;
     }
+}
+
+@media screen and (max-width: 1440px) {
+
 }
