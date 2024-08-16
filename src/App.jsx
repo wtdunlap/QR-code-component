@@ -1,7 +1,7 @@
 function App() {
     return (
         <>
-            <section className="container flex flex-row justify-center text-center items-center mx-auto size-5/6  py-40">
+            <section className="container flex flex-row justify-center text-center items-center mx-auto w-80  py-44">
                 <main className="qrCard flex flex-col bg-white rounded-2xl p-4 ">
                     <img
                         alt="Q R Code"
