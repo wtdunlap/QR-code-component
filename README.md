@@ -4,12 +4,12 @@ This is a solution to the [QR Code Component challenge on Frontend Mentor](https
 
 ### Issues
 
-The largest display I have is 1920x1080 so I was unable to test for larger resolutions. As such, things are at my best approximation for where they should be.
+The largest display I have is 1920x1080 so I was unable to test for larger resolutions. As such, things are at my best approximation for where they should be. This is my second attempt at making this scale like it's supposed to
 
 ### Screenshots
 
-![Desktop view](./images/Screenshot%20(903).png)
-![Mobile view](./images/Screenshot%20(904).png)
+![Desktop view]()
+![Mobile view]()
 
 ### Links
 
