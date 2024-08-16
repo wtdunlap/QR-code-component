@@ -8,13 +8,13 @@ This is my second attempt at making this scale like it's supposed to. This time 
 
 ### Screenshots
 
-![Desktop view]()
-![Mobile view]()
+![Desktop view](resources/screenshots/Screenshot(909).png)
+![Mobile view](resources/screenshots/Screenshot(910).png)
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/wtdunlap/QR-code-component)
-- Live Site URL: [GitHub Pages](https://wtdunlap.github.io/QR-code-component/)
+- Live Site URL: [GitHub Pages](https://qr-code-component-7p6b.onrender.com)
 
 ## Author
 
