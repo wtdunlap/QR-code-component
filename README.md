@@ -14,7 +14,7 @@ This is my second attempt at making this scale like it's supposed to. This time 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/wtdunlap/QR-code-component)
-- Live Site URL: [GitHub Pages](https://qr-code-component-7p6b.onrender.com)
+- Live Site URL: [Render](https://qr-code-component-7p6b.onrender.com)
 
 ## Author
 
