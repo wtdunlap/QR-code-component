@@ -4,7 +4,7 @@ This is a solution to the [QR Code Component challenge on Frontend Mentor](https
 
 ### Issues
 
-The largest display I have is 1920x1080 so I was unable to test for larger resolutions. As such, things are at my best approximation for where they should be. This is my second attempt at making this scale like it's supposed to
+This is my second attempt at making this scale like it's supposed to. This time I'm using TailwindCSS, Vite, React, and Node.js for this solution with much better results.
 
 ### Screenshots
 
